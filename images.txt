@@ -1,1 +1,1 @@
-rancher/rancher:stable
+busybox:1.32
