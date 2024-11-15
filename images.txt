@@ -1,1 +1,1 @@
-busybox:1.32
+bitnami/kubectl:1.25.15
