@@ -1,1 +1,1 @@
-quay.io/ceph/ceph:v18.2.4
+docker.risingwave.com/risingwavelabs/risingwave:v2.0.3
