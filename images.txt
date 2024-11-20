@@ -1,1 +1,1 @@
-docker.risingwave.com/risingwavelabs/risingwave:v2.0.3
+bitnami/postgresql:17.1.0-debian-12-r0
