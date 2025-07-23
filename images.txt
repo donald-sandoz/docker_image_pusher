@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:amd64-5.0.4
+serversideup/ansible:8.7.0-bullseye-python3.12
