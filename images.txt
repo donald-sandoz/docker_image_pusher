@@ -1,1 +1,1 @@
-serversideup/ansible:8.7.0-bullseye-python3.12
+ghcr.io/senshinya/moontv:latest
