@@ -1,1 +1,1 @@
-ghcr.io/senshinya/moontv:latest
+bigtop/slaves:3.3.0-openeuler-22.03
