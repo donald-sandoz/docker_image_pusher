@@ -1,1 +1,2 @@
-bigtop/slaves:3.3.0-openeuler-22.03
+ubuntu:16.04
+ubuntu:20.04
