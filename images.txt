@@ -1,2 +1,1 @@
-ubuntu:16.04
-ubuntu:20.04
+rockylinux:8.10
