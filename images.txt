@@ -1,1 +1,1 @@
-nginx:alpine
+ghcr.io/warp-tech/warpgate
